@@ -1,0 +1,18 @@
+
+Some of these problems were completed on Ubuntu v18 with VS Code & the Jupyter extension.  
+
+sudo apt install python3-pip
+
+pip3 install Jupyter
+
+(may need to restart computer)
+
+https://github.com/careercup/CtCI-6th-Edition-Python
+
+https://github.com/w-hat/ctci-solutions
+
+
+
+Python Test Explorer for Visual Studio Code
+
+
